@@ -1,4 +1,4 @@
-# Digitizing and conversion 1
+# Digitizing and Conversion 1
 カラー画像を読み込んでアスキーアートに変換後、さらにアスキーアートの記号を指定した任意の色に変換する。
 
 「ascii_convert」カラー画像  →  アスキーアート  
